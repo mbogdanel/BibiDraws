@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BibiDraws/static/css/main.445e89e3.chunk.css",
+    "main.js": "/BibiDraws/static/js/main.7939ed19.chunk.js",
+    "main.js.map": "/BibiDraws/static/js/main.7939ed19.chunk.js.map",
+    "runtime-main.js": "/BibiDraws/static/js/runtime-main.0e5be239.js",
+    "runtime-main.js.map": "/BibiDraws/static/js/runtime-main.0e5be239.js.map",
+    "static/js/2.2b154712.chunk.js": "/BibiDraws/static/js/2.2b154712.chunk.js",
+    "static/js/2.2b154712.chunk.js.map": "/BibiDraws/static/js/2.2b154712.chunk.js.map",
+    "index.html": "/BibiDraws/index.html",
+    "static/css/main.445e89e3.chunk.css.map": "/BibiDraws/static/css/main.445e89e3.chunk.css.map",
+    "static/js/2.2b154712.chunk.js.LICENSE.txt": "/BibiDraws/static/js/2.2b154712.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e5be239.js",
+    "static/js/2.2b154712.chunk.js",
+    "static/css/main.445e89e3.chunk.css",
+    "static/js/main.7939ed19.chunk.js"
+  ]
+}
